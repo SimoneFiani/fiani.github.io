@@ -1,11 +1,11 @@
 
-:numeroDiTelefonoPersonale: (+39) 392 81 23 218
-:emailPersonale: Christian.luzzetti@gmail.com
-:residenza-personale: Via Orazio Coccanari, 00019, Tivoli
+:numeroDiTelefonoPersonale: (+39) 328 73 48 525
+:emailPersonale: simone.fiani.dev@gmail.com
+:residenza-personale: Via Raffaello 31, 01100, Viterbo
 
 // Aziende prova
-:ised: Ised S.p.A
-:msx: MSX-International
+:ised: Ised spa
+:codere: Codere Italia spa
 
-:paolo-savi: I.T.C. Paolo Savi
-:universita-la-sapienza: La Sapienza - Università di Roma
+:itis: Istituto Tecnico Tecnologico "Leonardo da Vinci"
+:universita-tuscia: UNITUS - Università degli Studi della Tuscia

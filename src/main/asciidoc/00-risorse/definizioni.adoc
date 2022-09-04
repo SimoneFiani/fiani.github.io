@@ -3,7 +3,7 @@
 :emailPersonale: Christian.luzzetti@gmail.com
 :residenza-personale: Via Orazio Coccanari, 00019, Tivoli
 
-// Aziende
+// Aziende prova
 :ised: Ised S.p.A
 :msx: MSX-International
 
